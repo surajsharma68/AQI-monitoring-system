@@ -51,7 +51,7 @@ The following libraries are required for this project:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/aqi-climate-monitoring-system.git
+    git clone https://github.com/surajsharma68/AQI-monitoring-system
     ```
 2. Open the project in your Arduino IDE.
 
